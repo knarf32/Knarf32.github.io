@@ -1,6 +1,17 @@
 # Welcome to Frank's Top Gear Garage
 
-![Frank's Top Gear Garage Logo](![Frank and frank logo](https://github.com/knarf32/knarf32.github.io/assets/112992723/b82975b9-c4f4-4d5c-a7b7-f5c06cf0d801))
+<div style="position: absolute; top: 10px; right: 10px;">
+    <img src="!(https://github.com/knarf32/knarf32.github.io/assets/112992723/b82975b9-c4f4-4d5c-a7b7-f5c06cf0d801)" alt="Frank's Top Gear Garage Logo" width="100" height="auto">
+</div>
+
+<style>
+    body {
+        background-image: url(https://github.com/knarf32/knarf32.github.io/assets/112992723/2aa625f6-e0ca-4c25-b58c-39b6430b7b0e);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
 
 Frank's Top Gear Garage is your premier destination for automotive services, repairs, and customizations.
 
