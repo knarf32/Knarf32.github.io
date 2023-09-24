@@ -10,6 +10,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
+        color: white; /* Set text color to white */
     }
     img.gallery-image {
         max-width: 150px;
