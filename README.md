@@ -43,3 +43,7 @@ Find us at:
 City, State ZIP
 
 ![Map](link-to-your-map-image.png)
+## Image Gallery
+
+Explore our project gallery by clicking [here](https://your-username.github.io/your-repo-name/gallery.html).
+
