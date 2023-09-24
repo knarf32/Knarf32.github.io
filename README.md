@@ -53,5 +53,5 @@ Explore our project gallery by clicking [here](https://github.com/knarf32/knarf3
 **Customer Service / Sales Hours**:
 - Monday to Friday: 8:00 am - 5:00 pm
 
-*Sales needed for after hours or Saturday by appointment.*
+*Sales needed for after hours or Saturday by appointment, please call to schedule.*
 
