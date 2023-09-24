@@ -19,6 +19,8 @@
         header {
             position: relative;
             padding: 20px;
+            background-color: #222; /* Header background color */
+            color: #fff; /* Header text color */
         }
 
         header img {
