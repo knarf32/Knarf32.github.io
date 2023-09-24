@@ -1,6 +1,6 @@
 # Welcome to Frank's Top Gear Garage
 
-<div style="position: absolute; top: 10px; right: 10px;">
+<div style="position: absolute; top: 10px; right: 6px;">
     <img src="https://github.com/knarf32/knarf32.github.io/assets/112992723/dbf4f5ae-ae2c-4b14-9a07-2afa6bb820ff" alt="Frank's Top Gear Garage Logo" width="200" height="auto">
 </div>
 
