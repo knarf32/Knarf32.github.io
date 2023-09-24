@@ -1,79 +1,34 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frank's Top Gear Garage</title>
-    <style>
-        /* Reset some default styles for consistency */
-        body, h1, p {
-            margin: 0;
-            padding: 0;
-        }
+# Welcome to Frank's Top Gear Garage
 
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f2f2f2;
-            color: #333;
-            text-align: center;
-            padding: 20px;
-        }
+![Frank's Top Gear Garage Logo](link-to-your-logo-image.png)
 
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-        }
+Frank's Top Gear Garage is your premier destination for automotive services, repairs, and customizations.
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-        }
+## About Us
 
-        h1 {
-            font-size: 36px;
-        }
+At Frank's Top Gear Garage, we have a team of experienced mechanics and automotive enthusiasts ready to take care of your vehicle. Our services include:
 
-        p {
-            font-size: 18px;
-            line-height: 1.5;
-        }
+- **Repairs**: We specialize in diagnosing and fixing a wide range of automotive issues.
 
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #333;
-            color: #fff;
-            text-decoration: none;
-            border-radius: 5px;
-            font-weight: bold;
-        }
+- **Maintenance**: Keep your vehicle in top shape with our regular maintenance services.
 
-        /* Add some spacing and styling for links */
-        a {
-            color: #333;
-            text-decoration: none;
-        }
+- **Customization**: Personalize your ride with our customization options.
 
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Frank's Top Gear Garage</h1>
-    </header>
-    <div class="container">
-        <h2>Welcome to Frank's Top Gear Garage!</h2>
-        <p>Your one-stop destination for all your automotive needs.</p>
-        <p>We offer expert car repairs, maintenance, and customization services.</p>
-        <p>Contact us today to schedule an appointment or learn more about our services.</p>
-        <a class="button" href="#">Contact Us</a>
-    </div>
-</body>
-</html>
+## Contact Us
 
+Ready to schedule a service or have questions? Contact us today:
+
+- **Phone**: (123) 456-7890
+
+- **Email**: info@franksgarage.com
+
+- **Website**: [Visit our Website](https://your-username.github.io/your-repo-name/)
+
+## Location
+
+Find us at:
+
+123 Main Street
+City, State ZIP
+
+![Map](link-to-your-map-image.png)
