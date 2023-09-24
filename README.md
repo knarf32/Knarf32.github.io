@@ -6,7 +6,7 @@
 
 <style>
     body {
-        background-image: url(https://github.com/knarf32/knarf32.github.io/assets/112992723/2aa625f6-e0ca-4c25-b58c-39b6430b7b0e);
+        background-image: url(https://github.com/knarf32/knarf32.github.io/assets/112992723/a0c31807-5111-4c30-96fa-7851847653c9);
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
