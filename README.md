@@ -11,6 +11,10 @@
         background-repeat: no-repeat;
         background-attachment: fixed;
     }
+    img.gallery-image {
+        max-width: 150px;
+        height: auto;
+    }
 </style>
 
 Frank's Top Gear Garage is your premier destination for automotive services, repairs, and customizations.
@@ -40,16 +44,13 @@ Find us at:
 123 Main Street
 City, State ZIP
 
-![Map](link-to-your-map-image.png)
-
 ## My Image Gallery
 
 Explore our project gallery by clicking the links below.
 
-[![Image 1](https://github.com/knarf32/knarf32.github.io/assets/112992723/661cad19-85c7-474c-b328-68a4cd5880cd){width=150px}](https://github.com/knarf32/knarf32.github.io/assets/112992723/661cad19-85c7-474c-b328-68a4cd5880cd)
-[![Image 2](https://github.com/knarf32/knarf32.github.io/assets/112992723/b01f8340-eddf-48fe-8def-ada11089d966){width=150px}](https://github.com/knarf32/knarf32.github.io/assets/112992723/b01f8340-eddf-48fe-8def-ada11089d966)
-[![Image 3](https://github.com/knarf32/knarf32.github.io/assets/112992723/70cc10df-0d36-4e3f-be7a-68c23733816e){width=150px}](https://github.com/knarf32/knarf32.github.io/assets/112992723/70cc10df-0d36-4e3f-be7a-68c23733816e)
-
+[![Image 1](https://github.com/knarf32/knarf32.github.io/assets/112992723/661cad19-85c7-474c-b328-68a4cd5880cd)](https://github.com/knarf32/knarf32.github.io/assets/112992723/661cad19-85c7-474c-b328-68a4cd5880cd)
+[![Image 2](https://github.com/knarf32/knarf32.github.io/assets/112992723/b01f8340-eddf-48fe-8def-ada11089d966)](https://github.com/knarf32/knarf32.github.io/assets/112992723/b01f8340-eddf-48fe-8def-ada11089d966)
+[![Image 3](https://github.com/knarf32/knarf32.github.io/assets/112992723/70cc10df-0d36-4e3f-be7a-68c23733816e)](https://github.com/knarf32/knarf32.github.io/assets/112992723/70cc10df-0d36-4e3f-be7a-68c23733816e)
 
 [← Back to Gallery](#my-image-gallery)
 
