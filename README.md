@@ -33,8 +33,6 @@ Ready to schedule a service or have questions? Contact us today:
 
 - **Email**: info@franksgarage.com
 
-- **Website**: [Visit our Website](https://your-username.github.io/your-repo-name/)
-
 ## Location
 
 Find us at:
@@ -43,7 +41,17 @@ Find us at:
 City, State ZIP
 
 ![Map](link-to-your-map-image.png)
+
 ## Image Gallery
 
 Explore our project gallery by clicking [here](https://your-username.github.io/your-repo-name/gallery.html).
+## Business Hours
+
+**Shop Service Hours**:
+- Monday to Friday: 7:30 am - 4:30 pm
+
+**Customer Service / Sales Hours**:
+- Monday to Friday: 8:00 am - 5:00 pm
+
+*Sales needed for after hours or Saturday by appointment.*
 
