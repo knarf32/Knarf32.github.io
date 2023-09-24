@@ -44,7 +44,7 @@ City, State ZIP
 
 ## Image Gallery
 
-Explore our project gallery by clicking [here](https://your-username.github.io/your-repo-name/gallery.html).
+Explore our project gallery by clicking [here](https://github.com/knarf32/knarf32.github.io/assets/112992723/4a79414c-0079-482b-94b9-7d3bc939cb04).
 ## Business Hours
 
 **Shop Service Hours**:
