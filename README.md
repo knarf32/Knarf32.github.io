@@ -1,6 +1,6 @@
 # Welcome to Frank's Top Gear Garage
 
-![Frank's Top Gear Garage Logo](link-to-your-logo-image.png)
+![Frank's Top Gear Garage Logo](![Frank and frank logo](https://github.com/knarf32/knarf32.github.io/assets/112992723/b82975b9-c4f4-4d5c-a7b7-f5c06cf0d801))
 
 Frank's Top Gear Garage is your premier destination for automotive services, repairs, and customizations.
 
