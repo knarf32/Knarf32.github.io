@@ -14,7 +14,7 @@
 	<meta name="geo.placename" content="Granite Springs, NY">
 	<meta name="geo.region" content="US-NY">
 	<meta name="ICBM" content="41.312746,-73.75187970000002">
-	<meta name="Description" content="Granite Springs Garage provides the best auto repair, brake service, tires, transmissions &amp; oil changes in Granite Springs, NY 10527">
+	<meta name="Description" content="Granite Springs Garage provides the best auto repair, brake service, tires, transmissions &amp; oil changes in Amawalk, NY 10527">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
 	<meta charset="utf-8">
@@ -396,9 +396,9 @@ Granite Springs, NY 10527</a><br>
 			<div class="section section--about aos-init" data-aos="fade-up">
 				<div class="shell">
 					
-					<center><font color="red" font="" size="4"><b>Good News! Granite Springs Garage is open and operating normal office hours Monday - Friday 7am -6pm.</b></font><b>
+					<center><font color="red" font="" size="4"><b>Good News! Franks Top Gear Garage is open and operating normal office hours Monday - Friday 7:30am -6pm.</b></font><b>
 <br><br><br>
-Granite Springs Garage has proudly served the community since 1980 and during these trying times, we are with you. The health and safety of our customers and employees are important to us. We are taking extra safety and cleanliness precautions and are practicing social distancing. Feel free to call us at <a href="tel:9142485023">914-248-5023</a> to arrange drop-off and service with minimal contact. As life-long members of the community, the Genovesi family thanks you for continuing to support our small business.</b></center>
+Franks Top Gear Garage has proudly served the community since 1980 and during these trying times, we are with you. The health and safety of our customers and employees are important to us. We are taking extra safety and cleanliness precautions and are practicing social distancing. Feel free to call us at <a href="tel:9142485023">914-248-5023</a> to arrange drop-off and service with minimal contact. As life-long members of the community,  thanks you for continuing to support our small business.</b></center>
 <br><br><h1>Granite Springs Garage, The Best Truck and Car Repair Service in Granite Springs</h1>
 
 <center></center><p><img src="custom/white_camaro_pg.jpg" alt="White Camaro" style="margin:0px 15px;" class="article-image" align="left">Get top-notch auto repair services today at Granite Springs Garage. From AC repair to transmission services, our goal is to offer expert auto repairs at an affordable price. We are conveniently located near you in Granite Springs. Come by our shop at 2 Granite Springs Rd or call today to schedule an appointment at <a href="tel:9142485023">914-248-5023</a>.</p>
@@ -472,7 +472,7 @@ Granite Springs Garage has proudly served the community since 1980 and during th
 				<div class="shell">
 					<div class="section__content">
 
-						<h3 class="h2">Granite Springs Garage offers auto repair services you can count on!</h3>
+						<h3 class="h2">Franks Top Gear Garage offers auto repair services you can count on!</h3>
 
 					
 					</div><!-- /.section__content -->
@@ -503,7 +503,7 @@ Granite Springs Garage has proudly served the community since 1980 and during th
 		//    const lng = response.coordinates.lng;
 		//    let map;
 
-	       var locationString = '{"markers": [{"name": "Granite Springs Garage","center": {"lat": 41.312746, "lng": -73.75187970000002},"address": "2 Granite Springs Rd Granite Springs, NY 10527","locationId": 966}]}';
+	       var locationString = '{"markers": [{"name": "Franks Top Gear Garage","center": {"lat": 41.312746, "lng": -73.75187970000002},"address": "20 test, NY 10527","locationId": 966}]}';
 	       var locationJSON = JSON.parse(locationString);
 
 	       var defLatLng = new google.maps.LatLng(41.312746, -73.75187970000002);
@@ -801,7 +801,7 @@ function initMap() {
 								</svg><!-- /.ico-1# -->
 							</figure>
 
-							<h5><span itemprop="author">Robert R.</span><meta itemprop="datePublished" content=""></h5>
+							<h5><span itemprop="author">Nancy M.</span><meta itemprop="datePublished" content=""></h5>
 
 							<ul class="list-stars">
 								<li>
@@ -812,12 +812,12 @@ function initMap() {
 							</ul><!-- /.list-stars -->
 
 							<blockquote>
-								Frank is great and really wonderful to deal with.
+								Frank is absolutely fantastic and a pleasure to work with. He did an outstanding job on my ATV.
 							</blockquote>
 						</div><!-- /.testimonial__inner -->
 					</div><!-- /.testimonial -->
 
-					<a href="Granite Springs-testimonials.html" class="btn btn--red btn--red-outline btn--mobile-sm">view all reviews</a>
+					<a href="Amawalk-testimonials.html" class="btn btn--red btn--red-outline btn--mobile-sm">view all reviews</a>
 				</div><!-- /.shell -->
 			</div><!-- /.section section-/-testimonials -->
 
@@ -827,7 +827,7 @@ function initMap() {
 			<a href="tel:914-248-5023" class="btn__content lmc_main">
 				<strong>TAP TO CALL NOW</strong>
 
-				<span class="lmc_main">914-248-5023</span>
+				<span class="lmc_main">914-000-0000</span>
 			</a>
 
 			<a href="#" class="btn__close">X</a>
@@ -836,7 +836,7 @@ function initMap() {
 	<div class="shell">
 
 
-<h3>Granite Springs Garage</h3>
+<h3>Franks Top Gear Garage</h3>
 
 <div class="footer-nav-links">
 <ul>
@@ -851,7 +851,7 @@ function initMap() {
 				<ul>
 <li><ul class="list-icons">
 <li>
-						<p>2 Granite Springs Rd<br>Granite Springs, NY 10527</p>
+						<p>2 Amawalk Rd<br>Amawalk, NY 10527</p>
 					</li>
 					
 					<li>
@@ -867,7 +867,7 @@ function initMap() {
 
 <div class="footer-content-statement">
 	<div class="shell">
- Call today at <a href="tel:9142485023">914-248-5023</a> or come by the shop at 2 Granite Springs Rd, Granite Springs, NY, 10527.   Ask any car or truck owner in Granite Springs who they recommend. Chances are they will tell you Granite Springs Garage.
+ Call today at <a href="tel:_____">_______</a> or come by the shop at 1234 house.   Ask any car, truck, powersports and boat owner in Amawalk who they recommend. Chances are they will tell you Franks Top Gear Garage.
 </div>
 </div>
 
